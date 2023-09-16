@@ -1,0 +1,6 @@
+-This is a simple query of the dataset Death_cause2.
+
+-The repository contains the data set used and the sql code of the queries.
+
+-The project outlines the usability of simple commands on datasets in order
+to get results.
